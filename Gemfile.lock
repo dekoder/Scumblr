@@ -884,7 +884,7 @@ GEM
       rake (>= 0.8.7)
       thor (>= 0.18.1, < 2.0)
     raindrops (0.13.0)
-    rake (12.3.0)
+    rake (13.0.1)
     rake-compiler (0.9.5)
       rake
     ransack (1.7.0)
